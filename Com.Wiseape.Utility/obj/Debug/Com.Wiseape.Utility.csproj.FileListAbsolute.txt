@@ -1,0 +1,22 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb

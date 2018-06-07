@@ -1,0 +1,34 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb

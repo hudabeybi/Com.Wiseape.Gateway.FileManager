@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FactoryConfigurations>
+
+    <FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.Data.dll" ClassName="Com.Wiseape.Gateway.FileManager.Data.Repository.UploadedFileRepository" />
+      <Info>UploadedFile Repository</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeRepository" />
+    </FactoryConfiguration>
+	<FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.Data.dll" ClassName="Com.Wiseape.Gateway.FileManager.Data.Model.UploadedFile" />
+      <Info>UploadedFile Repository</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeDataModel" />
+    </FactoryConfiguration>
+    <FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.Data.dll" ClassName="Com.Wiseape.Gateway.FileManager.Data.Context.FileManagerDataContext" />
+      <Info>UploadedFile Data Context</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeDataContext" />
+    </FactoryConfiguration>
+	<FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.Business.dll" ClassName="Com.Wiseape.Gateway.FileManager.Business.Service.UploadedFileBusinessService" />
+      <Info>UploadedFile Business Service</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeBusinessService" />
+    </FactoryConfiguration>
+	<FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.View.dll" ClassName="Com.Wiseape.Gateway.FileManager.View.FormDataConverter.UploadedFileFormDataConverter" />
+      <Info>UploadedFile Form Data Converter</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeFormProcessor" />
+    </FactoryConfiguration>
+	<FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.View.dll" ClassName="Com.Wiseape.Gateway.FileManager.View.Validator.UploadedFileFormValidator" />
+      <Info>UploadedFile Form Validator</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeFormValidator" />
+    </FactoryConfiguration>
+	<FactoryConfiguration>
+      <AssemblyInfo DllFile="Com.Wiseape.Gateway.FileManager.View.dll" ClassName="Com.Wiseape.Gateway.FileManager.View.Form.UploadedFileForm" />
+      <Info>UploadedFile Form</Info>
+      <AssemblyType Key="UploadedFile" ClassType="clsTypeForm" />
+    </FactoryConfiguration>
+
+  </FactoryConfigurations>
+</Configurations>

@@ -1,0 +1,27 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Newtonsoft.Json.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.View\obj\Debug\Com.Wiseape.Gateway.FileManager.View.pdb

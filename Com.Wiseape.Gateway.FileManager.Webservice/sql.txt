@@ -1,0 +1,400 @@
+USE [master]
+GO
+/****** Object:  Database [Com.Wiseape.Gateway.FileManager]    Script Date: 3/7/2017 4:38:35 PM ******/
+CREATE DATABASE [Com.Wiseape.Gateway.FileManager]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'Com.Wiseape.Gateway.FileManager', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Com.Wiseape.Gateway.FileManager.mdf' , SIZE = 3072KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'Com.Wiseape.Gateway.FileManager_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\Com.Wiseape.Gateway.FileManager_log.ldf' , SIZE = 1792KB , MAXSIZE = 2048GB , FILEGROWTH = 10%)
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Com.Wiseape.Gateway.FileManager].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET RECOVERY FULL 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET  MULTI_USER 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET TARGET_RECOVERY_TIME = 0 SECONDS 
+GO
+EXEC sys.sp_db_vardecimal_storage_format N'Com.Wiseape.Gateway.FileManager', N'ON'
+GO
+USE [Com.Wiseape.Gateway.FileManager]
+GO
+/****** Object:  Table [dbo].[Area]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Area](
+	[IdArea] [int] IDENTITY(1,1) NOT NULL,
+	[AreaName] [varchar](250) NULL,
+	[AreaInfo] [text] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_Area] PRIMARY KEY CLUSTERED 
+(
+	[IdArea] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[ArticleContent]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[ArticleContent](
+	[IdContent] [bigint] IDENTITY(1,1) NOT NULL,
+	[ContentTag] [varchar](50) NULL,
+	[ContentTitle] [varchar](250) NULL,
+	[ContentText] [text] NULL,
+	[ContentPicture] [text] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_ArticleContent] PRIMARY KEY CLUSTERED 
+(
+	[IdContent] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Favorite]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Favorite](
+	[IdFavorite] [bigint] IDENTITY(1,1) NOT NULL,
+	[RecipeId] [bigint] NULL,
+	[MemberId] [bigint] NULL,
+	[FavoriteDatetime] [datetime] NULL,
+ CONSTRAINT [PK_Favorite] PRIMARY KEY CLUSTERED 
+(
+	[IdFavorite] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+/****** Object:  Table [dbo].[FoodRegion]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[FoodRegion](
+	[IdRegion] [int] IDENTITY(1,1) NOT NULL,
+	[RegionName] [varchar](250) NULL,
+	[RegionInfo] [text] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_FoodRegion] PRIMARY KEY CLUSTERED 
+(
+	[IdRegion] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Gender]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Gender](
+	[IdGender] [int] NOT NULL,
+	[Gender] [varchar](250) NULL,
+ CONSTRAINT [PK_Gender] PRIMARY KEY CLUSTERED 
+(
+	[IdGender] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Member]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Member](
+	[IdMember] [bigint] IDENTITY(1,1) NOT NULL,
+	[FirstName] [varchar](250) NULL,
+	[LastName] [varchar](250) NULL,
+	[GenderId] [int] NULL,
+	[Email] [varchar](250) NULL,
+	[Phone] [varchar](250) NULL,
+	[FacebookUrl] [text] NULL,
+	[TwitterUrl] [text] NULL,
+	[InstagramUrl] [text] NULL,
+	[Address] [text] NULL,
+	[AreaId] [int] NULL,
+	[Picture] [text] NULL,
+	[Username] [varchar](250) NULL,
+	[Password] [varchar](250) NULL,
+	[RegisteredDate] [datetime] NULL,
+	[MemberGroupId] [int] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED 
+(
+	[IdMember] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[MemberGroup]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[MemberGroup](
+	[IdGroup] [int] NOT NULL,
+	[GroupName] [varchar](50) NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_MemberGroup] PRIMARY KEY CLUSTERED 
+(
+	[IdGroup] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[PastaType]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[PastaType](
+	[IdPastaType] [int] IDENTITY(1,1) NOT NULL,
+	[PastaTypeName] [varchar](250) NULL,
+	[PastaTypeDesc] [text] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_PastaType] PRIMARY KEY CLUSTERED 
+(
+	[IdPastaType] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[Recipe]    Script Date: 3/7/2017 4:38:35 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[Recipe](
+	[IdReceipe] [bigint] IDENTITY(1,1) NOT NULL,
+	[RecipeTitle] [varchar](250) NULL,
+	[Portion] [int] NULL,
+	[Ingredients] [text] NULL,
+	[AdditionalInfoTitle] [varchar](250) NULL,
+	[AdditionalInfo] [text] NULL,
+	[HowToCook] [text] NULL,
+	[UploadedById] [bigint] NULL,
+	[UploadedDate] [datetime] NULL,
+	[PublishDate] [datetime] NULL,
+	[Tags] [text] NULL,
+	[Picture] [text] NULL,
+	[RegionId] [int] NULL,
+	[PastaTypeId] [int] NULL,
+	[IsActive] [int] NULL,
+ CONSTRAINT [PK_Receipe] PRIMARY KEY CLUSTERED 
+(
+	[IdReceipe] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+SET IDENTITY_INSERT [dbo].[Area] ON 
+
+GO
+INSERT [dbo].[Area] ([IdArea], [AreaName], [AreaInfo], [IsActive]) VALUES (1, N'DKI Jakarta', N'Jakarta', 1)
+GO
+INSERT [dbo].[Area] ([IdArea], [AreaName], [AreaInfo], [IsActive]) VALUES (2, N'Bandung', N'Bandung', 1)
+GO
+SET IDENTITY_INSERT [dbo].[Area] OFF
+GO
+SET IDENTITY_INSERT [dbo].[FoodRegion] ON 
+
+GO
+INSERT [dbo].[FoodRegion] ([IdRegion], [RegionName], [RegionInfo], [IsActive]) VALUES (1, N'Arabian', NULL, 1)
+GO
+INSERT [dbo].[FoodRegion] ([IdRegion], [RegionName], [RegionInfo], [IsActive]) VALUES (2, N'Latin', NULL, 1)
+GO
+INSERT [dbo].[FoodRegion] ([IdRegion], [RegionName], [RegionInfo], [IsActive]) VALUES (3, N'Asian', NULL, 1)
+GO
+INSERT [dbo].[FoodRegion] ([IdRegion], [RegionName], [RegionInfo], [IsActive]) VALUES (4, N'Lokal', N'Makanan makanan local', 1)
+GO
+INSERT [dbo].[FoodRegion] ([IdRegion], [RegionName], [RegionInfo], [IsActive]) VALUES (5, N'Western', NULL, 1)
+GO
+SET IDENTITY_INSERT [dbo].[FoodRegion] OFF
+GO
+INSERT [dbo].[Gender] ([IdGender], [Gender]) VALUES (1, N'Pria')
+GO
+INSERT [dbo].[Gender] ([IdGender], [Gender]) VALUES (2, N'Wanita')
+GO
+SET IDENTITY_INSERT [dbo].[Member] ON 
+
+GO
+INSERT [dbo].[Member] ([IdMember], [FirstName], [LastName], [GenderId], [Email], [Phone], [FacebookUrl], [TwitterUrl], [InstagramUrl], [Address], [AreaId], [Picture], [Username], [Password], [RegisteredDate], [MemberGroupId], [IsActive]) VALUES (2, N'Miftahul', N'Huda', 1, N'hudabeybi@efasd.com', N'34902384', N'4erwa', N'rawerw', N'sdfas', N'sadfasdf', 1, N'sdfasdf', N'hudabeybu', N'dsfa', CAST(N'2017-09-11 00:00:00.000' AS DateTime), 1, 1)
+GO
+INSERT [dbo].[Member] ([IdMember], [FirstName], [LastName], [GenderId], [Email], [Phone], [FacebookUrl], [TwitterUrl], [InstagramUrl], [Address], [AreaId], [Picture], [Username], [Password], [RegisteredDate], [MemberGroupId], [IsActive]) VALUES (6, N'Adiguna', N'Sudibyo', NULL, N'sudi@dsfasd.com', N'234353423', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[Member] ([IdMember], [FirstName], [LastName], [GenderId], [Email], [Phone], [FacebookUrl], [TwitterUrl], [InstagramUrl], [Address], [AreaId], [Picture], [Username], [Password], [RegisteredDate], [MemberGroupId], [IsActive]) VALUES (7, N'Jeremias', N'Perkasa', NULL, N'jenna@dsfasd.com', N'234353423', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[Member] ([IdMember], [FirstName], [LastName], [GenderId], [Email], [Phone], [FacebookUrl], [TwitterUrl], [InstagramUrl], [Address], [AreaId], [Picture], [Username], [Password], [RegisteredDate], [MemberGroupId], [IsActive]) VALUES (9, N'Yudhitia', N'Lasfika', NULL, N'jenna@dsfasd.com', N'234353423', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[Member] ([IdMember], [FirstName], [LastName], [GenderId], [Email], [Phone], [FacebookUrl], [TwitterUrl], [InstagramUrl], [Address], [AreaId], [Picture], [Username], [Password], [RegisteredDate], [MemberGroupId], [IsActive]) VALUES (16, N'Miftahul Huda Huda', N'Beybi', NULL, N'hudabeybi@yahoo.com', N'81385453262', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+GO
+SET IDENTITY_INSERT [dbo].[Member] OFF
+GO
+INSERT [dbo].[MemberGroup] ([IdGroup], [GroupName], [IsActive]) VALUES (1, N'Public', 1)
+GO
+INSERT [dbo].[MemberGroup] ([IdGroup], [GroupName], [IsActive]) VALUES (2, N'Gateway.FileManager', 1)
+GO
+INSERT [dbo].[MemberGroup] ([IdGroup], [GroupName], [IsActive]) VALUES (3, N'Admin', NULL)
+GO
+SET IDENTITY_INSERT [dbo].[PastaType] ON 
+
+GO
+INSERT [dbo].[PastaType] ([IdPastaType], [PastaTypeName], [PastaTypeDesc], [IsActive]) VALUES (2, N'Fushili', NULL, 1)
+GO
+INSERT [dbo].[PastaType] ([IdPastaType], [PastaTypeName], [PastaTypeDesc], [IsActive]) VALUES (3, N'Maccaroni', NULL, 1)
+GO
+INSERT [dbo].[PastaType] ([IdPastaType], [PastaTypeName], [PastaTypeDesc], [IsActive]) VALUES (4, N'Farfalle', NULL, 1)
+GO
+INSERT [dbo].[PastaType] ([IdPastaType], [PastaTypeName], [PastaTypeDesc], [IsActive]) VALUES (5, N'Cocciolini', NULL, 1)
+GO
+INSERT [dbo].[PastaType] ([IdPastaType], [PastaTypeName], [PastaTypeDesc], [IsActive]) VALUES (7, N'Spagheti', N'Spagheti nikmat', 1)
+GO
+SET IDENTITY_INSERT [dbo].[PastaType] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Recipe] ON 
+
+GO
+INSERT [dbo].[Recipe] ([IdReceipe], [RecipeTitle], [Portion], [Ingredients], [AdditionalInfoTitle], [AdditionalInfo], [HowToCook], [UploadedById], [UploadedDate], [PublishDate], [Tags], [Picture], [RegionId], [PastaTypeId], [IsActive]) VALUES (5, N'AGLIO SPAGHETTI UDANG', 4, N'<p>450 gr SPAGHETTI - LA FONTE, rebus, tiriskan|3 sdm minyak goreng|50 gr bawang bombai, cincang|3 siung bawang putih, cincang|6 butir bawang merah, cincang|4 buah cabai rawit, iris tipis|50 gr wortel, iris batang korek api|100 gr buncis, potong 3 cm|200 gr brokoli, potong-potong|150 gr sosis ayam, potong-potong|1 sdm kecap asin|&frac12; sdt garam</p>', N'asdfasdfasdfasdfa', N'<p>dfasdfadf</p>', N'<p>Panaskan minyak goreng dan minyak wijen. Tumis bawang merah, bawang putih, dan cabai rawit hingga harum.;Masukkan wortel, buncis, dan brokoli. Tumis hingga sayuran agak matang. Tambahkan SPAGHETTI - LA FONTE yang sudah direbus dan sosis ayam. Aduk rata.;450 gr SPAGHETTI - LA FONTE, rebus, tiriskan|3 sdm minyak goreng|50 gr bawang bombai, cincang|3 siung bawang putih, cincang|6 butir bawang merah, cincang|4 buah cabai rawit, iris tipis|50 gr wortel, iris batang korek api|100 gr buncis, potong 3 cm|200 gr brokoli, potong-potong|150 gr sosis ayam, potong-potong|1 sdm kecap asin|&frac12; sdt garam</p>', 6, CAST(N'2017-03-07 10:53:24.930' AS DateTime), CAST(N'2017-03-02 00:00:00.000' AS DateTime), N'Spagheti, Fushili', N'5.png', 4, 2, 0)
+GO
+INSERT [dbo].[Recipe] ([IdReceipe], [RecipeTitle], [Portion], [Ingredients], [AdditionalInfoTitle], [AdditionalInfo], [HowToCook], [UploadedById], [UploadedDate], [PublishDate], [Tags], [Picture], [RegionId], [PastaTypeId], [IsActive]) VALUES (6, N'TUMIS SPAGHETTI SAYURAN', 3, N'225 gr SPAGHETTI - LA FONTE, rebus, tiriskan|3 sdm minyak goreng|8 butir bakso sapi dipotong-potong|2 butir telur, kocok|2 batang bawang daun, iris tipis|250 ml kaldu bubuk|1 sdm bawang goreng', N'', N'', N'Panaskan minyak goreng, tumis bumbu halus hingga harum. Masukkan bakso sapi, tumis sebentar.|Masukkan SPAGHETTI - LA FONTE yang sudah direbus, aduk rata. Tuang telur kocok, aduk cepat hingga berserabut. Tambahkan bawang. Aduk rata.|Tuang kaldu, masak sebentar hingga semua bahan matang. Angkat. Taburi bawang goreng, sajikan hangat.', 2, CAST(N'2017-03-07 10:53:04.927' AS DateTime), CAST(N'2017-03-02 00:00:00.000' AS DateTime), N'Maccaroni', N'4.png', 3, 2, 0)
+GO
+SET IDENTITY_INSERT [dbo].[Recipe] OFF
+GO
+ALTER TABLE [dbo].[Favorite]  WITH CHECK ADD  CONSTRAINT [FK_Favorite_Member] FOREIGN KEY([MemberId])
+REFERENCES [dbo].[Member] ([IdMember])
+GO
+ALTER TABLE [dbo].[Favorite] CHECK CONSTRAINT [FK_Favorite_Member]
+GO
+ALTER TABLE [dbo].[Favorite]  WITH CHECK ADD  CONSTRAINT [FK_Favorite_Recipe] FOREIGN KEY([RecipeId])
+REFERENCES [dbo].[Recipe] ([IdReceipe])
+GO
+ALTER TABLE [dbo].[Favorite] CHECK CONSTRAINT [FK_Favorite_Recipe]
+GO
+ALTER TABLE [dbo].[Member]  WITH CHECK ADD  CONSTRAINT [FK_Member_Area] FOREIGN KEY([AreaId])
+REFERENCES [dbo].[Area] ([IdArea])
+GO
+ALTER TABLE [dbo].[Member] CHECK CONSTRAINT [FK_Member_Area]
+GO
+ALTER TABLE [dbo].[Member]  WITH CHECK ADD  CONSTRAINT [FK_Member_Gender] FOREIGN KEY([GenderId])
+REFERENCES [dbo].[Gender] ([IdGender])
+GO
+ALTER TABLE [dbo].[Member] CHECK CONSTRAINT [FK_Member_Gender]
+GO
+ALTER TABLE [dbo].[Member]  WITH CHECK ADD  CONSTRAINT [FK_Member_MemberGroup] FOREIGN KEY([MemberGroupId])
+REFERENCES [dbo].[MemberGroup] ([IdGroup])
+GO
+ALTER TABLE [dbo].[Member] CHECK CONSTRAINT [FK_Member_MemberGroup]
+GO
+ALTER TABLE [dbo].[Recipe]  WITH CHECK ADD  CONSTRAINT [FK_Receipe_FoodRegion] FOREIGN KEY([RegionId])
+REFERENCES [dbo].[FoodRegion] ([IdRegion])
+GO
+ALTER TABLE [dbo].[Recipe] CHECK CONSTRAINT [FK_Receipe_FoodRegion]
+GO
+ALTER TABLE [dbo].[Recipe]  WITH CHECK ADD  CONSTRAINT [FK_Receipe_Member] FOREIGN KEY([UploadedById])
+REFERENCES [dbo].[Member] ([IdMember])
+GO
+ALTER TABLE [dbo].[Recipe] CHECK CONSTRAINT [FK_Receipe_Member]
+GO
+ALTER TABLE [dbo].[Recipe]  WITH CHECK ADD  CONSTRAINT [FK_Receipe_PastaType] FOREIGN KEY([PastaTypeId])
+REFERENCES [dbo].[PastaType] ([IdPastaType])
+GO
+ALTER TABLE [dbo].[Recipe] CHECK CONSTRAINT [FK_Receipe_PastaType]
+GO
+USE [master]
+GO
+ALTER DATABASE [Com.Wiseape.Gateway.FileManager] SET  READ_WRITE 
+GO

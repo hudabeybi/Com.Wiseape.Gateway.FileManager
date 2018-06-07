@@ -1,0 +1,193 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\ApplicationInsights.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.Webservice.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.Agent.Intercept.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.DependencyCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.PerfCounterCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.Web.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.WindowsServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.ApplicationInsights.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.Extensions.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.IO.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.Runtime.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Gateway.FileManager.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.DependencyCollector.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.Web.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.AI.WindowsServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.ApplicationInsights.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.Extensions.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.IO.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.Runtime.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\Resources\Dlls\System.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\ApplicationInsights.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csproj.App.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\ApplicationInsights.config
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll.config
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Linq.Dynamic.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.xml
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csproj.App.config
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\ApplicationInsights.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Business.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Gateway.FileManager.View.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.DependencyCollector.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.Web.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.AI.WindowsServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.ApplicationInsights.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.IO.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Runtime.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\System.Threading.Tasks.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\bin\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csproj.App.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.FileManager\Com.Wiseape.Gateway.FileManager.Webservice\obj\Debug\Com.Wiseape.Gateway.FileManager.Webservice.pdb
